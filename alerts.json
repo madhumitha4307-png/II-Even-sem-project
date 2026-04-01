@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2026-03-27 15:44:54",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:36:34",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:36:30",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:36:27",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:35:45",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:35:38",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 14:35:31",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 00:24:21",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    },
+    {
+        "time": "2026-03-26 00:23:51",
+        "threat": "High-frequency keyboard activity detected (Potential Hook)",
+        "status": "Critical"
+    }
+]
